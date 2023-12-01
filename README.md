@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Windsky Yan
-- 👀 Computer Skills:
-- 💞️ Programming: PHP, Python, Basic Java
-- Writing: Basic Microsoft Office365
-- Others: HTML, CSS, Adobe Photoshop, Adobe Lightroom CC, Google Snapseed.
-- 🌱 I’m currently learning how to love.
-- ✨ I’m looking to her will come back.
+- 💞️ Major in IC and Integrated System Design.
+- 🌱 College of Information Science and Engineering, National Huaqiao University
+- ✨ IC Design is an Art.
 - 📫 How to reach me 
      email yanliye2003@qq.com
      welcome to https://wwww.yanliye.cn/
